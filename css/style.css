@@ -1,0 +1,88 @@
+html
+{
+	width: 100%;
+	padding: 0;
+	margin: 0;
+}
+
+section
+{
+padding-left: 20vh;
+padding-right: 20vh;
+margin-top: 10vh;
+}
+
+#nav
+{
+	background-color: #f97300;
+}
+
+a, navbar-brand
+{
+	color: white;
+}
+
+h1, h2, h4
+{
+	color: #f97300;
+}
+
+h3
+{
+	color: #10828c;
+}
+
+h2
+{
+	text-align: center;
+	margin-bottom: 7vh;
+}
+
+header
+{
+	background:  
+    linear-gradient(
+      rgba(255, 255, 255, 0.45), 
+      rgba(255, 255, 255, 0.45)
+    ),
+    url(../img/keyboard.jpg);
+	height: 60vh;
+}
+
+header div
+{
+	padding-left: 20vh;
+	padding-right: 20vh;
+}
+
+img
+{
+	width: 100%;
+}
+
+#separation
+{
+border-right: 4px solid #10828c;
+
+}
+
+.btn-primary
+{
+	background-color: #f97300;
+	border-style: none;
+}
+
+#about img
+{
+ width: 30vh;
+}
+
+form button
+{
+	width: 100%;
+}
+
+form 
+{
+	width: 40%;
+}
